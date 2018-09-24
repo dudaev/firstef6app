@@ -30,6 +30,7 @@ namespace FirstEF6App
                 foreach (var user in db.Users)
                 {
                     Console.WriteLine("{0}.{1} - {2}", user.Id, user.Name, user.Age);
+
                 }
             }
             Console.Read();
