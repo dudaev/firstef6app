@@ -1,0 +1,12 @@
+C:\Users\samui\source\repos\FirstEF6App\FirstEF6App\bin\Debug\FirstEF6App.exe.config
+C:\Users\samui\source\repos\FirstEF6App\FirstEF6App\bin\Debug\FirstEF6App.exe
+C:\Users\samui\source\repos\FirstEF6App\FirstEF6App\bin\Debug\FirstEF6App.pdb
+C:\Users\samui\source\repos\FirstEF6App\FirstEF6App\bin\Debug\EntityFramework.dll
+C:\Users\samui\source\repos\FirstEF6App\FirstEF6App\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\samui\source\repos\FirstEF6App\FirstEF6App\bin\Debug\EntityFramework.xml
+C:\Users\samui\source\repos\FirstEF6App\FirstEF6App\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\samui\source\repos\FirstEF6App\FirstEF6App\obj\Debug\FirstEF6App.csprojAssemblyReference.cache
+C:\Users\samui\source\repos\FirstEF6App\FirstEF6App\obj\Debug\FirstEF6App.csproj.CoreCompileInputs.cache
+C:\Users\samui\source\repos\FirstEF6App\FirstEF6App\obj\Debug\FirstEF6App.csproj.CopyComplete
+C:\Users\samui\source\repos\FirstEF6App\FirstEF6App\obj\Debug\FirstEF6App.exe
+C:\Users\samui\source\repos\FirstEF6App\FirstEF6App\obj\Debug\FirstEF6App.pdb
